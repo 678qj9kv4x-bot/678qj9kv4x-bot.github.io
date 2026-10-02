@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://678qj9kv4x-bot.github.io/sitemap.xml
